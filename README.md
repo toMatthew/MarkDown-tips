@@ -46,3 +46,14 @@
   ------------- | ------------- 
  单元格内容  | 单元格内容 
  单元格内容l  | 单元格内容 
+
+
+图片和跳转
+```
+在 Markdown 中插入链接不需要其他按钮，你只需要使用`［显示文本］(链接地址)`这样的格式语法即可。例如：
+[tomatthew](https://github.com/toMatthew)
+插入图片的语法与插入链接的语法很像，只是前面多了一个 `!`.语法如下：
+`![图片的标注](图片链接地址)`
+```
+[tomatthew](https://github.com/toMatthew)
+[image](https://user-gold-cdn.xitu.io/2020/1/31/16ffab17d5c820c2?imageView2/1/w/1304/h/734/q/85/format/webp/interlace/1)
